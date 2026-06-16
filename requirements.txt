@@ -3,3 +3,9 @@ pandas
 nbformat
 nbconvert
 jupyter
+streamlit
+pandas
+nbformat
+nbconvert
+jupyter
+azure-storage-blob
